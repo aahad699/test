@@ -15,6 +15,7 @@ git reset: reset changes
 git branch: add branch to repository
 git checkout (commit ID): moves to specific commit
 git log: gives you commit ID's
+git checkout master: moves head to master branch again
 
 mkdir: make directory  [mkdir test]
 cd: change directory  [cd test]
