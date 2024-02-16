@@ -1,1 +1,16 @@
 hello world
+
+git --version: check version
+git help config: opens help page in chrome
+git init: inizialition directory
+git status: status of directory
+git add file_name.ext: add file to directory  [git add demo.txt]
+git commit -m "committed": add version of file
+git config --global user.name "username": link to github account
+git config --global user.email "email@email.com": link to github account
+git remote add origin (remote remoistory link): link our git to remote repository
+git push origin master: push local files to remote repository
+
+mkdir: make directory  [mkdir test]
+cd: change directory  [cd test]
+clear: clear screen
