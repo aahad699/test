@@ -2,7 +2,7 @@ hello world
 
 git --version: check version
 git help config: opens help page in chrome
-git init: inizialition directory
+git init: initialization directory [moves to master branch]
 git status: status of directory
 git add file_name.ext: add file to directory  [git add demo.txt]
 git commit -m "committed": add version of file
@@ -13,6 +13,8 @@ git push origin master: push local files to remote repository
 git rm: remove repository
 git reset: reset changes
 git branch: add branch to repository
+git checkout (commit ID): moves to specific commit
+git log: gives you commit ID's
 
 mkdir: make directory  [mkdir test]
 cd: change directory  [cd test]
